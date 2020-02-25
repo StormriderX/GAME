@@ -1,2 +1,2 @@
-# Game.github.io
+# GAME
  monster game
